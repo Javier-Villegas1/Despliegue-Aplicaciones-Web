@@ -1,3 +1,0 @@
-para el ejercicio numero 1 he abuerto el block de notas, despues he copiado el codigo del ejercicio y guardado 
-en unas notas con finalizacion en .py al guardarlo podemos ejecutar en el cmd la siguiente imagen de esta carpete en la que se ve que da señal en el 
-puerto 8000
