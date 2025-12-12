@@ -6,4 +6,4 @@ ejercicios | Tema1 DAW
 ----------|------------
 [Instalación](instalacion%20apache%2C%20mySQL%20y%20php%20en%20proxmox%20mv%20ubuntu.pdf)|  instalacion de apache, mySQL y php en una MV de proxmox
  ----------|------------
-[proyecto servidor](ejercicio1%20DAWeb/)|  despliegue aplicacion web con python
+[proyecto servidor](Trabajo%201er%20trimestre%20-%20Despliegue.pdf)|  despliegue aplicacion web con python
